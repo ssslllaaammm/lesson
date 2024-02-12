@@ -183,14 +183,14 @@
 
 //Напишите функцию, которая принимает количество лет и считает количество недель
 
-//function yearsToWeeks(years) {
- //const weeksInYear = 52; 
-  //let total = years * weeksInYear;
-  //return total;
-//}
+function yearsToWeeks(years) {
+ const weeksInYear = 52; 
+  let total = years * weeksInYear;
+  return total;
+}
 
-//let result = yearsToWeeks(10);
-//console.log(result);
+let result = yearsToWeeks(10);
+console.log(results);
 
 
 
